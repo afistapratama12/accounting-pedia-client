@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
+
+// using use Selector use DIspatch, using switch, route, redirect, useLocation
+
 function App() {
   return (
     <div className="App">
